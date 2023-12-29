@@ -31,6 +31,7 @@
 - Other Skills:
    
     <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
+    
 </div>
 
 
