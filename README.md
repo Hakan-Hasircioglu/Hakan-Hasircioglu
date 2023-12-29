@@ -9,7 +9,7 @@
 <div style="display: flex; justify-content: space-between;">
 - Programming Languages:
   
-  <img src="icon.png" alt="C# Icon" width="50" height="50">
+  <img src="c-sharp.png" alt="C# Icon" width="50" height="50">
 
 </div>
    <div style="display: flex; justify-content: space-between;">
