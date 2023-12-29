@@ -8,8 +8,8 @@
 ## Technical Skills
 <div style="display: flex; justify-content: space-between;">
 - Programming Languages: 
-
- <img src="c-sharp.png" alt="C# Icon" width="3%"> ``(Intermediate)``
+ -<img src="c-sharp.png" alt="C# Icon" width="3%"> 
+ ``(Intermediate)``
  
 </div>
    <div style="display: flex; justify-content: space-between;">
