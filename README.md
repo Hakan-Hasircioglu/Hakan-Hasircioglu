@@ -10,7 +10,7 @@ Hello! I'm Hakan, a computer programming student.
    </div>
    <div style="display: flex; justify-content: space-between;">
 -Game Development:
-  -:walking: Unity (Beginner)
+  :walking: Unity (Beginner)
      </div>
 - Web Development:
   :star: HTML (Advanced)
