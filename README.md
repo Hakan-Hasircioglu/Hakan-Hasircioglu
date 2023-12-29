@@ -34,16 +34,16 @@ Hello! I'm Hakan, a computer programming student.
 ---
 This README file was created for [My GitHub Profile](https://github.com/Hakan-Hasircioglu).
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hakan-Hasircioglu&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## Most Used Languages
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakan-Hasircioglu&layout=compact&theme=radical)
 
 ## Contribution Graph
-![Your Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username&bg_color=1F222E&color=F8D866&line=F85D7F&point=E5C07B)
+![Your Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Hakan-Hasircioglu&bg_color=1F222E&color=F8D866&line=F85D7F&point=E5C07B)
 
 ## Streaks
-![Your Streaks](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![Your Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Hakan-Hasircioglu&theme=radical)
 
 ## Follow Me
-[![Follow Me](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
+[![Follow Me](https://img.shields.io/github/followers/Hakan-Hasircioglu?style=social)](https://github.com/your-username)
