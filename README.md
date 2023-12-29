@@ -1,6 +1,8 @@
 # Hi! :wave:
+
 ## About Me
 Hello! I'm Hakan, a computer programming student.
+
 ## Technical Skills
 <div style="display: flex; justify-content: space-between;">
 - Programming Languages:
@@ -24,6 +26,7 @@ Hello! I'm Hakan, a computer programming student.
 - Other Skills:
   :runner: Git (Intermediate)
 </div>
+
 ## Ongoing Goals
 - [ ] to learn advanced C#
 - [ ] developing game projects, learning game design and development
