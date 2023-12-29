@@ -28,4 +28,4 @@ Hello! I'm Hakan, a computer programming student.
 - Instagram: [@xakah.hsrcgl](https://www.instagram.com/xakah.hsrcgl/)
 
 ---
-This README file was created for [My GitHub Profile](https://github.com/Hakan-Hasircioglu)https://github.com/Hakan-Hasircioglu).
+This README file was created for [My GitHub Profile](https://github.com/Hakan-Hasircioglu).
