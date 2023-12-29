@@ -4,21 +4,16 @@
 Hello! I'm Hakan, a computer programming student.
 
 ## Technical Skills
-<div style="display:inline-block; width: 50%; vertical-align: top;">
+
 - Programming Languages:
   * C# (Intermediate)
 - Web Development:
   * HTML (Advanced)
   * CSS (Intermediate)
-</div>
-<div style="display:inline-block; width: 50%; vertical-align: top;">
 - Databases:
   * T-SQL (Beginner)
-</div>
-<div style="display:inline-block; width: 50%;">
 - Other Skills:
   * Git (Intermediate)
-</div>
 
 ## Projects
 - [AlgortihmProgramAndProblems](https://github.com/Hakan-Hasircioglu/AlgortihmProgramAndProblems)
