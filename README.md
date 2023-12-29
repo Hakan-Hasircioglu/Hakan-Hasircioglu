@@ -11,7 +11,8 @@ Hello! I'm Hakan, a computer programming student.
    <div style="display: flex; justify-content: space-between;">
 -Game Development:
   :walking: Unity (Beginner)
-     
+      </div>
+      <div style="display: flex; justify-content: space-between;">
 - Web Development:
   :star: HTML (Advanced)
   :runner: CSS (Intermediate)
