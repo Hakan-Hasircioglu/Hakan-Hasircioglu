@@ -29,10 +29,10 @@
 </div>
 <div style="display: flex; justify-content: space-between;">
 - Other Skills:
-    <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
    
-  Git :black_circle: (Intermediate)
+    <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
 </div>
+
 
 ## Ongoing Goals
 - [ ] to learn advanced C#
