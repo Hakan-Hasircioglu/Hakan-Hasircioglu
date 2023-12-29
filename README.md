@@ -1,9 +1,10 @@
 # Hi! :wave:
 ## About Me
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakan-Hasircioglu&layout=compact&theme=radical)
+![Your Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Hakan-Hasircioglu&theme=radical)
 ```Hello! I'm Hakan, a computer programming student.```
 
-![Your Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Hakan-Hasircioglu&theme=radical)
+
 
 ## Technical Skills
 <div style="display: flex; justify-content: space-between;">
