@@ -28,7 +28,9 @@ Hello! I'm Hakan, a computer programming student.
 - Other Skills:
   :runner: Git (Intermediate)
 </div>
+
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakan-Hasircioglu&layout=compact&theme=radical)
+
 ## Ongoing Goals
 - [ ] to learn advanced C#
 - [ ] developing game projects, learning game design and development
