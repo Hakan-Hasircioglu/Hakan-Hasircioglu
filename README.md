@@ -7,11 +7,18 @@ Hello! I'm Hakan, a computer programming student.
 <div style="display: flex; justify-content: space-between;">
 - Programming Languages:
   :runner: C# (Intermediate)
+   </div>
+   <div style="display: flex; justify-content: space-between;">
+-Game Development:
+  -:walking: Unity (Beginner)
+     </div>
 - Web Development:
   :star: HTML (Advanced)
   :runner: CSS (Intermediate)
+   </div>
 - Databases:
   :walking: T-SQL (Beginner)
+   </div>
 - Other Skills:
   :runner: Git (Intermediate)
  </div>
