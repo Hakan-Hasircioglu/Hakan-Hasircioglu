@@ -6,20 +6,20 @@ Hello! I'm Hakan, a computer programming student.
 ## Technical Skills
 <div style="display: flex; justify-content: space-between;">
 - Programming Languages:
-  --- C# (Intermediate)
+  :purple_square: C# (Intermediate)
   </div>
   <div style="display: flex; justify-content: space-between;">
 - Web Development:
-  --- HTML (Advanced)
-  --- CSS (Intermediate)
+  :red_square: HTML (Advanced)
+  :blue_square: CSS (Intermediate)
  </div>
   <div style="display: flex; justify-content: space-between;">
 - Databases:
-  --- T-SQL (Beginner)
+  :large_blue_diamond: T-SQL (Beginner)
     </div>
 <div style="display: flex; justify-content: space-between;">
 - Other Skills:
-  --- Git (Intermediate)
+  :black_large_square: Git (Intermediate)
  </div>
 
 
