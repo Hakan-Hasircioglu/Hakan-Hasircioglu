@@ -4,7 +4,7 @@
 Hello! I'm Hakan, a computer programming student.
 
 ## Technical Skills
-
+<div style="display: flex; justify-content: space-between;">
 - Programming Languages:
   * C# (Intermediate)
 - Web Development:
@@ -14,13 +14,14 @@ Hello! I'm Hakan, a computer programming student.
   * T-SQL (Beginner)
 - Other Skills:
   * Git (Intermediate)
+</div>
 
 ## Projects
 - [AlgortihmProgramAndProblems](https://github.com/Hakan-Hasircioglu/AlgortihmProgramAndProblems)
   - I update when I solve a new problem.
 
 ## Ongoing Goals
-- [ ] to learn advanced c#
+- [ ] to learn advanced C#
 - [ ] developing game projects, learning game design and development
 - [ ] to have general knowledge about front end and back end
 
