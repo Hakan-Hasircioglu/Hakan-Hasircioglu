@@ -8,7 +8,7 @@
 ## Technical Skills
 <div style="display: flex; justify-content: space-between;">
 - Programming Languages:
-  C# :green_circle: (Intermediate)
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) (Intermediate)
 </div>
    <div style="display: flex; justify-content: space-between;">
 - Game Development:
