@@ -7,7 +7,6 @@ Hello! I'm Hakan, a computer programming student.
 <div style="display:inline-block; width: 50%; vertical-align: top;">
 - Programming Languages:
   * C# (Intermediate)
- 
 - Web Development:
   * HTML (Advanced)
   * CSS (Intermediate)
