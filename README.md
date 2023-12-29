@@ -9,7 +9,7 @@
 <div style="display: flex; justify-content: space-between;">
 - Programming Languages: 
   
-  - ``Intermediate``<img src="c-sharp.png" alt="C# Icon" width="3%"> 
+  - ``Intermediate``<img href="https://dotnet.microsoft.com/en-us/languages/csharp" src="c-sharp.png" alt="C# Icon" width="3%"> 
 
   
  
