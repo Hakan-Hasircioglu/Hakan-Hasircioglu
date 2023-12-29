@@ -10,11 +10,12 @@ Hello! I'm Hakan, a computer programming student.
 - Web Development:
   * HTML (Advanced)
   * CSS (Intermediate)
+ </div>
 - Databases:
   * T-SQL (Beginner)
 - Other Skills:
   * Git (Intermediate)
-</div>
+
 
 ## Projects
 - [AlgortihmProgramAndProblems](https://github.com/Hakan-Hasircioglu/AlgortihmProgramAndProblems)
