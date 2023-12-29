@@ -3,6 +3,7 @@
 ## About Me
 Hello! I'm Hakan, a computer programming student.
 
+![Your Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Hakan-Hasircioglu&theme=radical)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakan-Hasircioglu&layout=compact&theme=radical)
 ## Technical Skills
 <div style="display: flex; justify-content: space-between;">
@@ -33,8 +34,6 @@ Hello! I'm Hakan, a computer programming student.
 - [ ] developing game projects, learning game design and development
 - [ ] to have general knowledge about front end and back end
 
-## Streaks
-![Your Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Hakan-Hasircioglu&theme=radical)
 
 ---
 This README file was created for [My GitHub Profile](https://github.com/Hakan-Hasircioglu).
