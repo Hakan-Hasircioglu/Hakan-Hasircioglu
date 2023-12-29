@@ -13,7 +13,7 @@ Hello! I'm Hakan, a computer programming student.
 </div>
    <div style="display: flex; justify-content: space-between;">
 - Game Development:
-  Unity (Beginner)
+  Unity :black_large_square: (Beginner)
 </div>
 <div style="display: flex; justify-content: space-between;">
 - Web Development:
@@ -27,7 +27,7 @@ Hello! I'm Hakan, a computer programming student.
 </div>
 <div style="display: flex; justify-content: space-between;">
 - Other Skills:
-  Git (Intermediate)
+  Git :black_circle: (Intermediate)
 </div>
 
 ## Ongoing Goals
