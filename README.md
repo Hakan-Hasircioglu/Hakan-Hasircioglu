@@ -3,8 +3,7 @@
 ## About Me
 Hello! I'm Hakan, a computer programming student.
 
-## Most Used Languages
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakan-Hasircioglu&layout=compact&theme=radical)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Hakan-Hasircioglu&layout=compact&theme=radical)
 ## Technical Skills
 <div style="display: flex; justify-content: space-between;">
 - Programming Languages:
