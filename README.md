@@ -31,10 +31,6 @@ Hello! I'm Hakan, a computer programming student.
 - [ ] to learn advanced C#
 - [ ] developing game projects, learning game design and development
 - [ ] to have general knowledge about front end and back end
----
-This README file was created for [My GitHub Profile](https://github.com/Hakan-Hasircioglu).
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hakan-Hasircioglu&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## Most Used Languages
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakan-Hasircioglu&layout=compact&theme=radical)
@@ -46,4 +42,8 @@ This README file was created for [My GitHub Profile](https://github.com/Hakan-Ha
 ![Your Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Hakan-Hasircioglu&theme=radical)
 
 ## Follow Me
-[![Follow Me](https://img.shields.io/github/followers/Hakan-Hasircioglu?style=social)](https://github.com/your-username)
+[![Follow Me](https://img.shields.io/github/followers/Hakan-Hasircioglu?style=social)](https://github.com/Hakan-Hasircioglu))
+
+---
+This README file was created for [My GitHub Profile](https://github.com/Hakan-Hasircioglu).
+
