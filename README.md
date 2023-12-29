@@ -9,7 +9,7 @@
 <div style="display: flex; justify-content: space-between;">
 - Programming Languages:
   
-  ![C#](<a href="https://www.flaticon.com/free-icons/c-sharp" title="c sharp icons">C sharp icons created by Freepik - Flaticon</a>)
+  ![C#](https://www.flaticon.com/free-icons/c-sharp)
 
 </div>
    <div style="display: flex; justify-content: space-between;">
