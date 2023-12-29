@@ -10,6 +10,8 @@
 - Programming Languages: 
   
   - ``Intermediate`` [![C#](c-sharp.ico)]([https://hedef-link.com](https://dotnet.microsoft.com/en-us/languages/csharp))
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="C#" /></a>
+" width="36" height="36" alt="C#" /></a>
 
   
  
