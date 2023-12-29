@@ -38,6 +38,5 @@ Hello! I'm Hakan, a computer programming student.
 ---
 This README file was created for [My GitHub Profile](https://github.com/Hakan-Hasircioglu).
 
-## Follow Me
 [![Follow Me](https://img.shields.io/github/followers/Hakan-Hasircioglu?style=social)](https://github.com/Hakan-Hasircioglu)
 
