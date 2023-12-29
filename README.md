@@ -37,11 +37,3 @@ Hello! I'm Hakan, a computer programming student.
 
 ---
 This README file was created for [My GitHub Profile](https://github.com/Hakan-Hasircioglu).
-
-[![Follow Me](https://img.shields.io/github/followers/Hakan-Hasircioglu?style=social)](https://github.com/Hakan-Hasircioglu)
-
-[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hakan-Hasircioglue&bg_color=1F222E&color=F8D866&line=F85D7F&point=E5C07B)](https://github.com/Hakan-Hasircioglu)
-
-[![My Dev.to Stats](https://github-readme-stats.vercel.app/api/devto?username=Hakan-Hasircioglu)](https://dev.to/Hakan-Hasircioglu)
-
-[![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hakan-Hasircioglu)](https://wakatime.com/@Hakan-Hasircioglu)
