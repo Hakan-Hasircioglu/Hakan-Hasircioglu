@@ -1,4 +1,4 @@
-# Hello, My Name is Hakan Hasircioglu
+# Hi! :wave:
 
 ## About Me
 Hello! I'm Hakan, a computer programming student.
