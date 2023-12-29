@@ -9,7 +9,7 @@ Hello! I'm Hakan, a computer programming student.
 ## Technical Skills
 <div style="display: flex; justify-content: space-between;">
 - Programming Languages:
-  C#:green_circle: (Intermediate)
+  C# :green_circle: (Intermediate)
 </div>
    <div style="display: flex; justify-content: space-between;">
 - Game Development:
@@ -17,8 +17,8 @@ Hello! I'm Hakan, a computer programming student.
 </div>
 <div style="display: flex; justify-content: space-between;">
 - Web Development:
-  HTML:orange_circle: (Advanced)
-  CSS:purple_circle: (Intermediate)
+  HTML :orange_circle: (Advanced)
+  CSS :purple_circle: (Intermediate)
 </div>
 </div>
 <div style="display: flex; justify-content: space-between;">
