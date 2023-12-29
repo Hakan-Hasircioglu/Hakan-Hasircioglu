@@ -1,8 +1,9 @@
 # Hi! :wave:
-
 ## About Me
-``Hello! I'm Hakan, a computer programming student.``
+
 ![Your Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Hakan-Hasircioglu&theme=radical)
+
+``Hello! I'm Hakan, a computer programming student.``
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakan-Hasircioglu&layout=compact&theme=radical)
 
 ## Technical Skills
