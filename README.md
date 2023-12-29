@@ -9,7 +9,7 @@
 <div style="display: flex; justify-content: space-between;">
 - Programming Languages:
   
-  ![C#](https://www.flaticon.com/free-icon/c-sharp_6132221?term=c+sharp&page=1&position=2&origin=tag&related_id=6132221)
+  ![C#]([https://www.flaticon.com/free-icon/c-sharp_6132221?term=c+sharp&page=1&position=2&origin=tag&related_id=6132221](https://icons8.com/icon/Fycm8TUhWmFU/c-sharp-logo))
 
 </div>
    <div style="display: flex; justify-content: space-between;">
