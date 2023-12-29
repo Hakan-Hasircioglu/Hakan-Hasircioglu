@@ -9,7 +9,7 @@
 <div style="display: flex; justify-content: space-between;">
 - Programming Languages:
   
-  ![C#](https://www.flaticon.com/free-icons/c-sharp)
+  ![C#]([https://www.flaticon.com/free-icons/c-sharp](https://www.flaticon.com/free-icon/c-sharp_6132221?term=c+sharp&page=1&position=2&origin=tag&related_id=6132221))
 
 </div>
    <div style="display: flex; justify-content: space-between;">
