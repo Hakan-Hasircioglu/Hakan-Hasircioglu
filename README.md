@@ -14,7 +14,7 @@
    <div style="display: flex; justify-content: space-between;">
 - Game Development:
        
-   <a href="https://unity.com/c" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="100" height="40"  alt="Unity" /></a>
+   <a href="https://unity.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="100" height="40"  alt="Unity" /></a>
 </div>
 <div style="display: flex; justify-content: space-between;">
 - Web Development:
