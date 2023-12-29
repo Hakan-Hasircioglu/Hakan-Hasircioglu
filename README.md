@@ -15,7 +15,7 @@ Hello! I'm Hakan, a computer programming student.
   - Git (Intermediate)
 
 ## Projects
-- AlgortihmProgramAndProblems(https://github.com/Hakan-Hasircioglu/AlgortihmProgramAndProblems)
+- [AlgortihmProgramAndProblems](https://github.com/Hakan-Hasircioglu/AlgortihmProgramAndProblems)
   - I update when I solve a new problem.
 
 ## Ongoing Goals
