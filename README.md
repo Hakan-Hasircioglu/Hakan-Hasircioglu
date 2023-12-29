@@ -11,12 +11,7 @@ Hello! I'm Hakan, a computer programming student.
   * HTML (Advanced)
   * CSS (Intermediate)
  </div>
- <div style="display: flex; justify-content: space-between;">
-- Databases:
-  * T-SQL (Beginner)
-- Other Skills:
-  * Git (Intermediate)
- </div>
+
 
 ## Projects
 - [AlgortihmProgramAndProblems](https://github.com/Hakan-Hasircioglu/AlgortihmProgramAndProblems)
