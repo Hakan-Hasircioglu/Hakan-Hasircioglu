@@ -23,7 +23,7 @@ Hello! I'm Hakan, a computer programming student.
 </div>
 <div style="display: flex; justify-content: space-between;">
 - Databases:
-  T-SQL:yellow_circle: (Beginner)
+  T-SQL :yellow_circle: (Beginner)
 </div>
 <div style="display: flex; justify-content: space-between;">
 - Other Skills:
