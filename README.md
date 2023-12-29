@@ -9,25 +9,24 @@
 <div style="display: flex; justify-content: space-between;">
 - Programming Languages: 
    
-   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" /></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="40" height="40"  alt="C#" /></a>
 </div>
    <div style="display: flex; justify-content: space-between;">
 - Game Development:
        
-   <a href="https://unity.com/c" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="60" height="40" alt="CSS-3" /></a>
-      
-  Unity :black_large_square: (Beginner)
+   <a href="https://unity.com/c" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="100" height="40"  alt="Unity" /></a>
 </div>
 <div style="display: flex; justify-content: space-between;">
 - Web Development:
    
-   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="CSS-3" /></a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS-3" /></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Devicon-html5-plain.svg" width="60" height="40" alt="HTML-5" /></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="60" height="40" alt="CSS-3" /></a>
 </div>
 </div>
 <div style="display: flex; justify-content: space-between;">
 - Databases:
-  T-SQL :yellow_circle: (Beginner)
+
+   <a href="https://learn.microsoft.com/en-us/sql/t-sql/tutorial-writing-transact-sql-statements?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="https://brandonparrigin.me/assets/images/techs/t-sql.png" width="40" height="40" alt="T-SQL" /></a>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
