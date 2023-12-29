@@ -6,20 +6,20 @@ Hello! I'm Hakan, a computer programming student.
 ## Technical Skills
 <div style="display:inline-block; width: 50%; vertical-align: top;">
 - Programming Languages:
-  - C# (Intermediate)
+  * C# (Intermediate)
   </div>
   <div style="display:inline-block; width: 50%;">
 - Web Development:
-  - HTML (Advanced)
-  - CSS (Intermediate)
+  * HTML (Advanced)
+  * CSS (Intermediate)
 </div>
 <div style="display:inline-block; width: 50%; vertical-align: top;">
 - Databases:
-  - T-SQL (Beginner)
+  * T-SQL (Beginner)
 </div>
 <div style="display:inline-block; width: 50%;">
 - Other Skills:
-  - Git (Intermediate)
+  * Git (Intermediate)
 </div>
 
 ## Projects
