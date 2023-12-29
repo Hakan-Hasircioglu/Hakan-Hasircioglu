@@ -4,6 +4,7 @@
 Hello! I'm Hakan, a computer programming student.
 
 ![Your Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Hakan-Hasircioglu&theme=radical)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakan-Hasircioglu&layout=compact&theme=radical)
 
 ## Technical Skills
 <div style="display: flex; justify-content: space-between;">
@@ -28,8 +29,6 @@ Hello! I'm Hakan, a computer programming student.
 - Other Skills:
   :runner: Git (Intermediate)
 </div>
-
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakan-Hasircioglu&layout=compact&theme=radical)
 
 ## Ongoing Goals
 - [ ] to learn advanced C#
