@@ -24,8 +24,8 @@ Hello! I'm Hakan, a computer programming student.
 - [ ] to have general knowledge about front end and back end
 
 ## Contact
-- LinkedIn: [in/hakan-hasircioglu]([(https://www.linkedin.com/in/hakan-hasircioglu-708263299/)https://www.linkedin.com/in/hakan-hasircioglu-708263299/)
-- Instagram: [@xakah.hsrcgl]((https://www.instagram.com/xakah.hsrcgl/)https://www.instagram.com/xakah.hsrcgl/)
+- LinkedIn: [in/hakan-hasircioglu](https://www.linkedin.com/in/hakan-hasircioglu-708263299/)
+- Instagram: [@xakah.hsrcgl](https://www.instagram.com/xakah.hsrcgl/)
 
 ---
 This README file was created for [My GitHub Profile](https://github.com/Hakan-Hasircioglu)https://github.com/Hakan-Hasircioglu).
