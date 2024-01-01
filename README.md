@@ -8,7 +8,7 @@
 <div style="display: flex; justify-content: space-between;">
 - Programming Languages: 
    
- &nbsp;  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="40" height="40"  alt="C#" /></a>
+ &nbsp;  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="40" height="40"  alt="C#" /></a>
 </div>
    <div style="display: flex; justify-content: space-between;">
 - Game Development:
