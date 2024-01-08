@@ -1,5 +1,5 @@
 # Hi! :wave:
-## About Me
+
 `Hello! I'm Hakan, a computer programming student.`
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakan-Hasircioglu&layout=compact&theme=radical)
