@@ -34,12 +34,5 @@
   &nbsp;   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
 </div>
 
-
-## Ongoing Goals
-- [ ] to learn advanced C#
-- [ ] developing game projects, learning game design and development
-- [ ] to have general knowledge about front end and back end
-
-
 ---
 This README file was created for [My GitHub Profile](https://github.com/Hakan-Hasircioglu).
