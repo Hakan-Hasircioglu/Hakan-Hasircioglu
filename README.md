@@ -2,8 +2,6 @@
 
 `Hello! I'm Hakan, a computer programming student.`
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakan-Hasircioglu&layout=compact&theme=radical)
-
 ## Technical Skills
 
 - Programming Language: 
@@ -22,5 +20,7 @@
        <a href="https://learn.microsoft.com/en-us/sql/t-sql/tutorial-writing-transact-sql-statements?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="https://brandonparrigin.me/assets/images/techs/t-sql.png" width="40" height="40" alt="T-SQL" /></a>
   &nbsp;   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
 
+---
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakan-Hasircioglu&layout=compact&theme=radical)
 ---
 This README file was created for [My GitHub Profile](https://github.com/Hakan-Hasircioglu).
