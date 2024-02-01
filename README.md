@@ -6,7 +6,7 @@
 
 ## Technical Skills
 
-- Programming Languages: 
+- Programming Language: 
    
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="40" height="40"  alt="C#" /></a>
 </div>
