@@ -1,7 +1,5 @@
 # Hi! :wave:
 
-`Hello! I'm Hakan, a computer programming student.`
-
 ## Technical Skills
 
 - Programming Language: 
